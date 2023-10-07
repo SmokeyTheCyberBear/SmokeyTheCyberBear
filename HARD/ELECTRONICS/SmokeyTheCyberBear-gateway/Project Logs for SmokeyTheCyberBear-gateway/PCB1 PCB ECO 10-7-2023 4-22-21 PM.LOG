@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=5V_VDC Pin=5V PWR-1
+Removed Pin From Net: NetName=GND Pin=5V PWR-2
+Removed Member From Class: ClassName=Sheet2 Member=5V PWR
+Change Component Designator: OldDesignator=ESP32 C3 Dev Board NewDesignator=U1
+Change Component Designator: OldDesignator=LORA RA-02 NewDesignator=U2
+Added Component: Designator=J?(GCT_USB4145-03-0230-C_REVA2)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4145-03-0230-C_REVA2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_VDC Pin=J?-A4
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=5V_VDC Pin=J?-B4
+Added Pin To Net: NetName=GND Pin=J?-B12
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Sheet2 Member=Component J? USB4145-03-0230-C_REVA2

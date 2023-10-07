@@ -1,0 +1,45 @@
+Added Component: Designator=U?(XCVR_ESP32-C3-DEVKITM-1)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-C3-DEVKITM-1/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-C3-DEVKITM-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-C3-DEVKITM-1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-C3-DEVKITM-1/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_RA-02_LORA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'AI-Thinker'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RA-02_LORA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_vcc Pin=U?-2
+Added Pin To Net: NetName=3V3_vcc Pin=U?-3
+Added Net: Name=3V3_vcc
+Added Pin To Net: NetName=DIO0 Pin=U?-5
+Added Pin To Net: NetName=DIO0 Pin=U?-9
+Added Net: Name=DIO0
+Added Pin To Net: NetName=DIO1 Pin=U?-6
+Added Pin To Net: NetName=DIO1 Pin=U?-10
+Added Net: Name=DIO1
+Added Pin To Net: NetName=GND Pin=U?-16
+Added Pin To Net: NetName=GND Pin=U?-30
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=U?-13
+Added Pin To Net: NetName=MISO Pin=U?-21
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U?-14
+Added Pin To Net: NetName=MOSI Pin=U?-22
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NSS Pin=U?-15
+Added Pin To Net: NetName=NSS Pin=U?-23
+Added Net: Name=NSS
+Added Pin To Net: NetName=RST Pin=U?-4
+Added Pin To Net: NetName=RST Pin=U?-11
+Added Net: Name=RST
+Added Pin To Net: NetName=SPI_CLK Pin=U?-12
+Added Pin To Net: NetName=SPI_CLK Pin=U?-20
+Added Net: Name=SPI_CLK
+Added Class: Name=Sheet2
