@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V_VDC Pin=J?-A4
+Removed Pin From Net: NetName=GND Pin=J?-A12
+Removed Pin From Net: NetName=5V_VDC Pin=J?-B4
+Removed Pin From Net: NetName=GND Pin=J?-B12
+Added Component: Designator=J?(GCT_USB4515-GF-A_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Global Connector Technology'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4515-GF-A_REVA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_VDC Pin=J?-A9
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=5V_VDC Pin=J?-B9
+Added Pin To Net: NetName=GND Pin=J?-B12

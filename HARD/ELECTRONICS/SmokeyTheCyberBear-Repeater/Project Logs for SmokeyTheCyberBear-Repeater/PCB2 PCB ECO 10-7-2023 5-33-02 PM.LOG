@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=O2_Sens_DOut0 Pin=J6-3
+Added Pin To Net: NetName=O2_Sens_DOut0 Pin=U1-18
+Added Net: Name=O2_Sens_DOut0
+Added Pin To Net: NetName=O2_Sens_DOut1 Pin=J3-3
+Added Pin To Net: NetName=O2_Sens_DOut1 Pin=U1-17
+Added Net: Name=O2_Sens_DOut1
+Added Pin To Net: NetName=O2_Sens_DOut2 Pin=J5-3
+Added Pin To Net: NetName=O2_Sens_DOut2 Pin=U1-5
+Added Net: Name=O2_Sens_DOut2
+Added Pin To Net: NetName=O2_Sens_DOut3 Pin=J4-3
+Added Pin To Net: NetName=O2_Sens_DOut3 Pin=U1-4
+Added Net: Name=O2_Sens_DOut3
